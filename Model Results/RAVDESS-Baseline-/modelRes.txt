@@ -1,0 +1,91 @@
+[[23  0  1  2  5]
+ [ 1 36  0  1  2]
+ [ 3  0 26  4  3]
+ [ 7  1  6 22  5]
+ [ 0 12  7  1 24]]
+              precision    recall  f1-score   support
+
+       anger       0.68      0.74      0.71        31
+        calm       0.73      0.90      0.81        40
+        fear       0.65      0.72      0.68        36
+         joy       0.73      0.54      0.62        41
+         sad       0.62      0.55      0.58        44
+
+    accuracy                           0.68       192
+   macro avg       0.68      0.69      0.68       192
+weighted avg       0.68      0.68      0.68       192
+
+Accuracy: 0.6822916666666666
+[[29  1  3  9  5]
+ [ 0 13  0  2  5]
+ [ 2  1 26  5  9]
+ [ 3  3  3 18 11]
+ [ 1  6  3  3 31]]
+              precision    recall  f1-score   support
+
+       anger       0.83      0.62      0.71        47
+        calm       0.54      0.65      0.59        20
+        fear       0.74      0.60      0.67        43
+         joy       0.49      0.47      0.48        38
+         sad       0.51      0.70      0.59        44
+
+    accuracy                           0.61       192
+   macro avg       0.62      0.61      0.61       192
+weighted avg       0.64      0.61      0.61       192
+
+Accuracy: 0.609375
+[[26  3  1  8  2]
+ [ 0 39  0  1  6]
+ [ 1  2 27  8  2]
+ [ 4  4  2 20  3]
+ [ 3  3  3  8 16]]
+              precision    recall  f1-score   support
+
+       anger       0.76      0.65      0.70        40
+        calm       0.76      0.85      0.80        46
+        fear       0.82      0.68      0.74        40
+         joy       0.44      0.61      0.51        33
+         sad       0.55      0.48      0.52        33
+
+    accuracy                           0.67       192
+   macro avg       0.67      0.65      0.66       192
+weighted avg       0.68      0.67      0.67       192
+
+Accuracy: 0.6666666666666666
+[[23  0  0  9  0]
+ [ 1 30  0 10  9]
+ [ 2  0 20  8  3]
+ [ 8  2  3 25  1]
+ [ 1  6  3 10 18]]
+              precision    recall  f1-score   support
+
+       anger       0.66      0.72      0.69        32
+        calm       0.79      0.60      0.68        50
+        fear       0.77      0.61      0.68        33
+         joy       0.40      0.64      0.50        39
+         sad       0.58      0.47      0.52        38
+
+    accuracy                           0.60       192
+   macro avg       0.64      0.61      0.61       192
+weighted avg       0.64      0.60      0.61       192
+
+Accuracy: 0.6041666666666666
+[[31  1  0  6  4]
+ [ 1 26  1  4  4]
+ [ 3  2 22 10  3]
+ [ 4  1  5 29  2]
+ [ 1  6  6  4 16]]
+              precision    recall  f1-score   support
+
+       anger       0.78      0.74      0.76        42
+        calm       0.72      0.72      0.72        36
+        fear       0.65      0.55      0.59        40
+         joy       0.55      0.71      0.62        41
+         sad       0.55      0.48      0.52        33
+
+    accuracy                           0.65       192
+   macro avg       0.65      0.64      0.64       192
+weighted avg       0.65      0.65      0.65       192
+
+Accuracy: 0.6458333333333334
+Avg Accuracy: 0.6416666666666666

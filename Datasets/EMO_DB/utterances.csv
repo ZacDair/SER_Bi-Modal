@@ -1,0 +1,536 @@
+text,label
+The tablecloth is lying on the fridge,male_joy
+The tablecloth is lying on the fridge,male_neutral
+The tablecloth is lying on the fridge,male_anger
+She wants to hand that in on Wednesday,male_joy
+She wants to hand that in on Wednesday,male_neutral
+She wants to hand that in on Wednesday,male_sad
+She wants to hand that in on Wednesday,male_anger
+She wants to hand that in on Wednesday,male_anger
+I could tell him tonight,male_fear
+I could tell him tonight,male_joy
+I could tell him tonight,male_boredom
+I could tell him tonight,male_neutral
+I could tell him tonight,male_sad
+I could tell him tonight,male_anger
+The black piece of paper is up there next to the piece of wood,male_fear
+The black piece of paper is up there next to the piece of wood,male_joy
+The black piece of paper is up there next to the piece of wood,male_neutral
+The black piece of paper is up there next to the piece of wood,male_sad
+The black piece of paper is up there next to the piece of wood,male_anger
+The black piece of paper is up there next to the piece of wood,male_anger
+It will be ready in seven hours,male_joy
+It will be ready in seven hours,male_joy
+It will be ready in seven hours,male_boredom
+It will be ready in seven hours,male_neutral
+It will be ready in seven hours,male_anger
+What kind of bags are there under the table,male_joy
+What kind of bags are there under the table,male_boredom
+What kind of bags are there under the table,male_neutral
+What kind of bags are there under the table,male_sad
+What kind of bags are there under the table,male_anger
+What kind of bags are there under the table,male_anger
+They just carried it up and now they're going down again,male_fear
+They just carried it up and now they're going down again,male_boredom
+They just carried it up and now they're going down again,male_neutral
+They just carried it up and now they're going down again,male_sad
+They just carried it up and now they're going down again,male_anger
+I used to go home on the weekends and visit Agnes,male_neutral
+I used to go home on the weekends and visit Agnes,male_sad
+I used to go home on the weekends and visit Agnes,male_anger
+I want to take that away and then go have a drink with Karl,male_boredom
+I want to take that away and then go have a drink with Karl,male_neutral
+I want to take that away and then go have a drink with Karl,male_sad
+I want to take that away and then go have a drink with Karl,male_anger
+It will be in the place where we always put it.,male_fear
+It will be in the place where we always put it.,male_disgust
+It will be in the place where we always put it.,male_neutral
+It will be in the place where we always put it.,male_neutral
+It will be in the place where we always put it.,male_anger
+It will be in the place where we always put it.,male_anger
+The tablecloth is lying on the fridge,female_fear
+The tablecloth is lying on the fridge,female_joy
+The tablecloth is lying on the fridge,female_boredom
+The tablecloth is lying on the fridge,female_neutral
+The tablecloth is lying on the fridge,female_anger
+The tablecloth is lying on the fridge,female_anger
+She wants to hand that in on Wednesday,female_fear
+She wants to hand that in on Wednesday,female_fear
+She wants to hand that in on Wednesday,female_joy
+She wants to hand that in on Wednesday,female_boredom
+She wants to hand that in on Wednesday,female_neutral
+She wants to hand that in on Wednesday,female_sad
+She wants to hand that in on Wednesday,female_anger
+I could tell him tonight,female_joy
+I could tell him tonight,female_boredom
+I could tell him tonight,female_neutral
+I could tell him tonight,female_sad
+I could tell him tonight,female_anger
+The black piece of paper is up there next to the piece of wood,female_joy
+The black piece of paper is up there next to the piece of wood,female_boredom
+The black piece of paper is up there next to the piece of wood,female_neutral
+The black piece of paper is up there next to the piece of wood,female_sad
+The black piece of paper is up there next to the piece of wood,female_anger
+It will be ready in seven hours,female_joy
+It will be ready in seven hours,female_boredom
+It will be ready in seven hours,female_neutral
+It will be ready in seven hours,female_sad
+It will be ready in seven hours,female_sad
+It will be ready in seven hours,female_anger
+What kind of bags are there under the table,female_fear
+What kind of bags are there under the table,female_joy
+What kind of bags are there under the table,female_joy
+What kind of bags are there under the table,female_boredom
+What kind of bags are there under the table,female_neutral
+What kind of bags are there under the table,female_anger
+They just carried it up and now they're going down again,female_joy
+They just carried it up and now they're going down again,female_boredom
+They just carried it up and now they're going down again,female_neutral
+They just carried it up and now they're going down again,female_sad
+They just carried it up and now they're going down again,female_anger
+I used to go home on the weekends and visit Agnes,female_joy
+I used to go home on the weekends and visit Agnes,female_boredom
+I used to go home on the weekends and visit Agnes,female_neutral
+I used to go home on the weekends and visit Agnes,female_sad
+I used to go home on the weekends and visit Agnes,female_anger
+I want to take that away and then go have a drink with Karl,female_fear
+I want to take that away and then go have a drink with Karl,female_joy
+I want to take that away and then go have a drink with Karl,female_boredom
+I want to take that away and then go have a drink with Karl,female_neutral
+I want to take that away and then go have a drink with Karl,female_sad
+I want to take that away and then go have a drink with Karl,female_anger
+I want to take that away and then go have a drink with Karl,female_anger
+It will be in the place where we always put it.,female_fear
+It will be in the place where we always put it.,female_joy
+It will be in the place where we always put it.,female_boredom
+It will be in the place where we always put it.,female_neutral
+It will be in the place where we always put it.,female_sad
+It will be in the place where we always put it.,female_anger
+The tablecloth is lying on the fridge,female_disgust
+The tablecloth is lying on the fridge,female_joy
+The tablecloth is lying on the fridge,female_neutral
+The tablecloth is lying on the fridge,female_anger
+She wants to hand that in on Wednesday,female_disgust
+She wants to hand that in on Wednesday,female_disgust
+She wants to hand that in on Wednesday,female_boredom
+She wants to hand that in on Wednesday,female_anger
+I could tell him tonight,female_joy
+I could tell him tonight,female_boredom
+I could tell him tonight,female_neutral
+I could tell him tonight,female_anger
+The black piece of paper is up there next to the piece of wood,female_disgust
+The black piece of paper is up there next to the piece of wood,female_boredom
+The black piece of paper is up there next to the piece of wood,female_neutral
+The black piece of paper is up there next to the piece of wood,female_sad
+The black piece of paper is up there next to the piece of wood,female_anger
+The black piece of paper is up there next to the piece of wood,female_anger
+It will be ready in seven hours,female_disgust
+It will be ready in seven hours,female_neutral
+It will be ready in seven hours,female_sad
+It will be ready in seven hours,female_anger
+It will be ready in seven hours,female_anger
+What kind of bags are there under the table,female_disgust
+What kind of bags are there under the table,female_neutral
+What kind of bags are there under the table,female_anger
+They just carried it up and now they're going down again,female_neutral
+They just carried it up and now they're going down again,female_sad
+They just carried it up and now they're going down again,female_anger
+They just carried it up and now they're going down again,female_anger
+I used to go home on the weekends and visit Agnes,female_disgust
+I used to go home on the weekends and visit Agnes,female_joy
+I used to go home on the weekends and visit Agnes,female_joy
+I used to go home on the weekends and visit Agnes,female_boredom
+I used to go home on the weekends and visit Agnes,female_neutral
+I used to go home on the weekends and visit Agnes,female_sad
+I used to go home on the weekends and visit Agnes,female_anger
+I want to take that away and then go have a drink with Karl,female_disgust
+I want to take that away and then go have a drink with Karl,female_neutral
+I want to take that away and then go have a drink with Karl,female_anger
+It will be in the place where we always put it.,female_fear
+It will be in the place where we always put it.,female_neutral
+It will be in the place where we always put it.,female_anger
+The tablecloth is lying on the fridge,male_fear
+The tablecloth is lying on the fridge,male_neutral
+The tablecloth is lying on the fridge,male_anger
+She wants to hand that in on Wednesday,male_fear
+She wants to hand that in on Wednesday,male_joy
+She wants to hand that in on Wednesday,male_boredom
+She wants to hand that in on Wednesday,male_neutral
+She wants to hand that in on Wednesday,male_anger
+I could tell him tonight,male_joy
+I could tell him tonight,male_neutral
+I could tell him tonight,male_anger
+I could tell him tonight,male_anger
+The black piece of paper is up there next to the piece of wood,male_fear
+The black piece of paper is up there next to the piece of wood,male_boredom
+The black piece of paper is up there next to the piece of wood,male_sad
+The black piece of paper is up there next to the piece of wood,male_anger
+It will be ready in seven hours,male_fear
+It will be ready in seven hours,male_fear
+It will be ready in seven hours,male_boredom
+It will be ready in seven hours,male_sad
+It will be ready in seven hours,male_anger
+What kind of bags are there under the table,male_fear
+What kind of bags are there under the table,male_disgust
+What kind of bags are there under the table,male_joy
+What kind of bags are there under the table,male_boredom
+They just carried it up and now they're going down again,male_fear
+They just carried it up and now they're going down again,male_boredom
+They just carried it up and now they're going down again,male_neutral
+They just carried it up and now they're going down again,male_anger
+I used to go home on the weekends and visit Agnes,male_boredom
+I used to go home on the weekends and visit Agnes,male_sad
+I used to go home on the weekends and visit Agnes,male_anger
+I want to take that away and then go have a drink with Karl,male_fear
+I want to take that away and then go have a drink with Karl,male_boredom
+I want to take that away and then go have a drink with Karl,male_anger
+It will be in the place where we always put it.,male_joy
+It will be in the place where we always put it.,male_boredom
+It will be in the place where we always put it.,male_anger
+The tablecloth is lying on the fridge,male_fear
+The tablecloth is lying on the fridge,male_fear
+The tablecloth is lying on the fridge,male_boredom
+The tablecloth is lying on the fridge,male_neutral
+The tablecloth is lying on the fridge,male_anger
+She wants to hand that in on Wednesday,male_disgust
+She wants to hand that in on Wednesday,male_joy
+She wants to hand that in on Wednesday,male_boredom
+She wants to hand that in on Wednesday,male_neutral
+She wants to hand that in on Wednesday,male_sad
+She wants to hand that in on Wednesday,male_anger
+I could tell him tonight,male_fear
+I could tell him tonight,male_joy
+I could tell him tonight,male_neutral
+I could tell him tonight,male_anger
+The black piece of paper is up there next to the piece of wood,male_fear
+The black piece of paper is up there next to the piece of wood,male_joy
+The black piece of paper is up there next to the piece of wood,male_joy
+The black piece of paper is up there next to the piece of wood,male_boredom
+The black piece of paper is up there next to the piece of wood,male_neutral
+The black piece of paper is up there next to the piece of wood,male_sad
+The black piece of paper is up there next to the piece of wood,male_anger
+It will be ready in seven hours,male_fear
+It will be ready in seven hours,male_boredom
+It will be ready in seven hours,male_sad
+It will be ready in seven hours,male_anger
+What kind of bags are there under the table,male_fear
+What kind of bags are there under the table,male_disgust
+What kind of bags are there under the table,male_joy
+What kind of bags are there under the table,male_boredom
+What kind of bags are there under the table,male_neutral
+What kind of bags are there under the table,male_anger
+They just carried it up and now they're going down again,male_fear
+They just carried it up and now they're going down again,male_joy
+They just carried it up and now they're going down again,male_neutral
+They just carried it up and now they're going down again,male_sad
+They just carried it up and now they're going down again,male_anger
+I used to go home on the weekends and visit Agnes,male_joy
+I used to go home on the weekends and visit Agnes,male_boredom
+I used to go home on the weekends and visit Agnes,male_neutral
+I used to go home on the weekends and visit Agnes,male_sad
+I used to go home on the weekends and visit Agnes,male_anger
+I used to go home on the weekends and visit Agnes,male_anger
+I want to take that away and then go have a drink with Karl,male_fear
+I want to take that away and then go have a drink with Karl,male_joy
+I want to take that away and then go have a drink with Karl,male_boredom
+I want to take that away and then go have a drink with Karl,male_neutral
+I want to take that away and then go have a drink with Karl,male_sad
+I want to take that away and then go have a drink with Karl,male_anger
+It will be in the place where we always put it.,male_fear
+It will be in the place where we always put it.,male_fear
+It will be in the place where we always put it.,male_boredom
+It will be in the place where we always put it.,male_neutral
+It will be in the place where we always put it.,male_sad
+It will be in the place where we always put it.,male_anger
+The tablecloth is lying on the fridge,male_joy
+The tablecloth is lying on the fridge,male_boredom
+The tablecloth is lying on the fridge,male_neutral
+The tablecloth is lying on the fridge,male_anger
+She wants to hand that in on Wednesday,male_fear
+She wants to hand that in on Wednesday,male_disgust
+She wants to hand that in on Wednesday,male_neutral
+She wants to hand that in on Wednesday,male_anger
+She wants to hand that in on Wednesday,male_anger
+I could tell him tonight,male_anger
+The black piece of paper is up there next to the piece of wood,male_fear
+The black piece of paper is up there next to the piece of wood,male_boredom
+The black piece of paper is up there next to the piece of wood,male_neutral
+The black piece of paper is up there next to the piece of wood,male_sad
+The black piece of paper is up there next to the piece of wood,male_anger
+It will be ready in seven hours,male_fear
+It will be ready in seven hours,male_boredom
+It will be ready in seven hours,male_anger
+What kind of bags are there under the table,male_sad
+What kind of bags are there under the table,male_anger
+They just carried it up and now they're going down again,male_fear
+They just carried it up and now they're going down again,male_disgust
+They just carried it up and now they're going down again,male_joy
+They just carried it up and now they're going down again,male_neutral
+They just carried it up and now they're going down again,male_anger
+They just carried it up and now they're going down again,male_anger
+They just carried it up and now they're going down again,male_anger
+I used to go home on the weekends and visit Agnes,male_boredom
+I used to go home on the weekends and visit Agnes,male_sad
+I want to take that away and then go have a drink with Karl,male_fear
+I want to take that away and then go have a drink with Karl,male_sad
+I want to take that away and then go have a drink with Karl,male_anger
+It will be in the place where we always put it.,male_fear
+It will be in the place where we always put it.,male_boredom
+It will be in the place where we always put it.,male_anger
+The tablecloth is lying on the fridge,female_fear
+The tablecloth is lying on the fridge,female_disgust
+The tablecloth is lying on the fridge,female_disgust
+The tablecloth is lying on the fridge,female_joy
+The tablecloth is lying on the fridge,female_boredom
+The tablecloth is lying on the fridge,female_neutral
+The tablecloth is lying on the fridge,female_anger
+She wants to hand that in on Wednesday,female_fear
+She wants to hand that in on Wednesday,female_disgust
+She wants to hand that in on Wednesday,female_joy
+She wants to hand that in on Wednesday,female_boredom
+She wants to hand that in on Wednesday,female_neutral
+She wants to hand that in on Wednesday,female_sad
+She wants to hand that in on Wednesday,female_anger
+I could tell him tonight,female_fear
+I could tell him tonight,female_joy
+I could tell him tonight,female_boredom
+I could tell him tonight,female_sad
+I could tell him tonight,female_anger
+The black piece of paper is up there next to the piece of wood,female_fear
+The black piece of paper is up there next to the piece of wood,female_disgust
+The black piece of paper is up there next to the piece of wood,female_boredom
+The black piece of paper is up there next to the piece of wood,female_neutral
+The black piece of paper is up there next to the piece of wood,female_sad
+The black piece of paper is up there next to the piece of wood,female_anger
+The black piece of paper is up there next to the piece of wood,female_anger
+It will be ready in seven hours,female_joy
+It will be ready in seven hours,female_boredom
+It will be ready in seven hours,female_neutral
+It will be ready in seven hours,female_sad
+It will be ready in seven hours,female_anger
+What kind of bags are there under the table,female_fear
+What kind of bags are there under the table,female_disgust
+What kind of bags are there under the table,female_joy
+What kind of bags are there under the table,female_boredom
+What kind of bags are there under the table,female_neutral
+What kind of bags are there under the table,female_anger
+They just carried it up and now they're going down again,female_joy
+They just carried it up and now they're going down again,female_boredom
+They just carried it up and now they're going down again,female_neutral
+They just carried it up and now they're going down again,female_anger
+I used to go home on the weekends and visit Agnes,female_fear
+I used to go home on the weekends and visit Agnes,female_disgust
+I used to go home on the weekends and visit Agnes,female_joy
+I used to go home on the weekends and visit Agnes,female_boredom
+I used to go home on the weekends and visit Agnes,female_neutral
+I used to go home on the weekends and visit Agnes,female_sad
+I used to go home on the weekends and visit Agnes,female_anger
+I want to take that away and then go have a drink with Karl,female_fear
+I want to take that away and then go have a drink with Karl,female_disgust
+I want to take that away and then go have a drink with Karl,female_joy
+I want to take that away and then go have a drink with Karl,female_joy
+I want to take that away and then go have a drink with Karl,female_boredom
+I want to take that away and then go have a drink with Karl,female_neutral
+I want to take that away and then go have a drink with Karl,female_anger
+It will be in the place where we always put it.,female_disgust
+It will be in the place where we always put it.,female_joy
+It will be in the place where we always put it.,female_boredom
+It will be in the place where we always put it.,female_neutral
+It will be in the place where we always put it.,female_anger
+It will be in the place where we always put it.,female_anger
+The tablecloth is lying on the fridge,female_fear
+The tablecloth is lying on the fridge,female_fear
+The tablecloth is lying on the fridge,female_disgust
+The tablecloth is lying on the fridge,female_neutral
+The tablecloth is lying on the fridge,female_anger
+The tablecloth is lying on the fridge,female_anger
+She wants to hand that in on Wednesday,female_fear
+She wants to hand that in on Wednesday,female_disgust
+She wants to hand that in on Wednesday,female_joy
+She wants to hand that in on Wednesday,female_boredom
+She wants to hand that in on Wednesday,female_neutral
+She wants to hand that in on Wednesday,female_sad
+She wants to hand that in on Wednesday,female_anger
+She wants to hand that in on Wednesday,female_anger
+I could tell him tonight,female_fear
+I could tell him tonight,female_disgust
+I could tell him tonight,female_boredom
+I could tell him tonight,female_sad
+I could tell him tonight,female_sad
+I could tell him tonight,female_anger
+I could tell him tonight,female_anger
+The black piece of paper is up there next to the piece of wood,female_fear
+The black piece of paper is up there next to the piece of wood,female_fear
+The black piece of paper is up there next to the piece of wood,female_joy
+The black piece of paper is up there next to the piece of wood,female_joy
+The black piece of paper is up there next to the piece of wood,female_boredom
+The black piece of paper is up there next to the piece of wood,female_neutral
+The black piece of paper is up there next to the piece of wood,female_sad
+The black piece of paper is up there next to the piece of wood,female_sad
+The black piece of paper is up there next to the piece of wood,female_anger
+The black piece of paper is up there next to the piece of wood,female_anger
+It will be ready in seven hours,female_fear
+It will be ready in seven hours,female_disgust
+It will be ready in seven hours,female_joy
+It will be ready in seven hours,female_boredom
+It will be ready in seven hours,female_boredom
+It will be ready in seven hours,female_neutral
+It will be ready in seven hours,female_sad
+It will be ready in seven hours,female_anger
+What kind of bags are there under the table,female_fear
+What kind of bags are there under the table,female_disgust
+What kind of bags are there under the table,female_joy
+What kind of bags are there under the table,female_joy
+What kind of bags are there under the table,female_neutral
+What kind of bags are there under the table,female_anger
+They just carried it up and now they're going down again,female_fear
+They just carried it up and now they're going down again,female_joy
+They just carried it up and now they're going down again,female_neutral
+They just carried it up and now they're going down again,female_sad
+They just carried it up and now they're going down again,female_anger
+They just carried it up and now they're going down again,female_anger
+I used to go home on the weekends and visit Agnes,female_fear
+I used to go home on the weekends and visit Agnes,female_disgust
+I used to go home on the weekends and visit Agnes,female_boredom
+I used to go home on the weekends and visit Agnes,female_sad
+I used to go home on the weekends and visit Agnes,female_anger
+I want to take that away and then go have a drink with Karl,female_fear
+I want to take that away and then go have a drink with Karl,female_disgust
+I want to take that away and then go have a drink with Karl,female_joy
+I want to take that away and then go have a drink with Karl,female_boredom
+I want to take that away and then go have a drink with Karl,female_sad
+I want to take that away and then go have a drink with Karl,female_anger
+I want to take that away and then go have a drink with Karl,female_anger
+It will be in the place where we always put it.,female_fear
+It will be in the place where we always put it.,female_disgust
+It will be in the place where we always put it.,female_boredom
+It will be in the place where we always put it.,female_neutral
+It will be in the place where we always put it.,female_sad
+It will be in the place where we always put it.,female_anger
+The tablecloth is lying on the fridge,male_disgust
+The tablecloth is lying on the fridge,male_joy
+The tablecloth is lying on the fridge,male_boredom
+The tablecloth is lying on the fridge,male_neutral
+The tablecloth is lying on the fridge,male_anger
+She wants to hand that in on Wednesday,male_fear
+She wants to hand that in on Wednesday,male_disgust
+She wants to hand that in on Wednesday,male_boredom
+She wants to hand that in on Wednesday,male_neutral
+She wants to hand that in on Wednesday,male_sad
+She wants to hand that in on Wednesday,male_anger
+She wants to hand that in on Wednesday,male_anger
+I could tell him tonight,male_fear
+I could tell him tonight,male_fear
+I could tell him tonight,male_joy
+I could tell him tonight,male_neutral
+I could tell him tonight,male_anger
+I could tell him tonight,male_anger
+The black piece of paper is up there next to the piece of wood,male_disgust
+The black piece of paper is up there next to the piece of wood,male_joy
+The black piece of paper is up there next to the piece of wood,male_boredom
+The black piece of paper is up there next to the piece of wood,male_neutral
+The black piece of paper is up there next to the piece of wood,male_anger
+It will be ready in seven hours,male_fear
+It will be ready in seven hours,male_disgust
+It will be ready in seven hours,male_joy
+It will be ready in seven hours,male_joy
+It will be ready in seven hours,male_boredom
+It will be ready in seven hours,male_neutral
+What kind of bags are there under the table,male_disgust
+What kind of bags are there under the table,male_boredom
+What kind of bags are there under the table,male_neutral
+What kind of bags are there under the table,male_anger
+They just carried it up and now they're going down again,male_fear
+They just carried it up and now they're going down again,male_boredom
+They just carried it up and now they're going down again,male_neutral
+They just carried it up and now they're going down again,male_sad
+They just carried it up and now they're going down again,male_anger
+They just carried it up and now they're going down again,male_anger
+I used to go home on the weekends and visit Agnes,male_fear
+I used to go home on the weekends and visit Agnes,male_boredom
+I used to go home on the weekends and visit Agnes,male_neutral
+I used to go home on the weekends and visit Agnes,male_sad
+I used to go home on the weekends and visit Agnes,male_anger
+I used to go home on the weekends and visit Agnes,male_anger
+I want to take that away and then go have a drink with Karl,male_fear
+I want to take that away and then go have a drink with Karl,male_joy
+I want to take that away and then go have a drink with Karl,male_boredom
+I want to take that away and then go have a drink with Karl,male_neutral
+I want to take that away and then go have a drink with Karl,male_sad
+I want to take that away and then go have a drink with Karl,male_anger
+It will be in the place where we always put it.,male_fear
+It will be in the place where we always put it.,male_boredom
+It will be in the place where we always put it.,male_neutral
+It will be in the place where we always put it.,male_neutral
+It will be in the place where we always put it.,male_anger
+The tablecloth is lying on the fridge,female_disgust
+The tablecloth is lying on the fridge,female_joy
+The tablecloth is lying on the fridge,female_boredom
+The tablecloth is lying on the fridge,female_neutral
+The tablecloth is lying on the fridge,female_sad
+The tablecloth is lying on the fridge,female_anger
+She wants to hand that in on Wednesday,female_disgust
+She wants to hand that in on Wednesday,female_disgust
+She wants to hand that in on Wednesday,female_boredom
+She wants to hand that in on Wednesday,female_neutral
+She wants to hand that in on Wednesday,female_sad
+She wants to hand that in on Wednesday,female_anger
+I could tell him tonight,female_fear
+I could tell him tonight,female_disgust
+I could tell him tonight,female_joy
+I could tell him tonight,female_boredom
+I could tell him tonight,female_boredom
+I could tell him tonight,female_neutral
+I could tell him tonight,female_sad
+I could tell him tonight,female_anger
+I could tell him tonight,female_anger
+The black piece of paper is up there next to the piece of wood,female_fear
+The black piece of paper is up there next to the piece of wood,female_disgust
+The black piece of paper is up there next to the piece of wood,female_joy
+The black piece of paper is up there next to the piece of wood,female_boredom
+The black piece of paper is up there next to the piece of wood,female_sad
+The black piece of paper is up there next to the piece of wood,female_anger
+The black piece of paper is up there next to the piece of wood,female_anger
+It will be ready in seven hours,female_disgust
+It will be ready in seven hours,female_joy
+It will be ready in seven hours,female_joy
+It will be ready in seven hours,female_boredom
+It will be ready in seven hours,female_boredom
+It will be ready in seven hours,female_neutral
+It will be ready in seven hours,female_sad
+It will be ready in seven hours,female_anger
+What kind of bags are there under the table,female_fear
+What kind of bags are there under the table,female_disgust
+What kind of bags are there under the table,female_joy
+What kind of bags are there under the table,female_boredom
+What kind of bags are there under the table,female_boredom
+What kind of bags are there under the table,female_sad
+What kind of bags are there under the table,female_anger
+What kind of bags are there under the table,female_anger
+They just carried it up and now they're going down again,female_fear
+They just carried it up and now they're going down again,female_disgust
+They just carried it up and now they're going down again,female_joy
+They just carried it up and now they're going down again,female_boredom
+They just carried it up and now they're going down again,female_anger
+I used to go home on the weekends and visit Agnes,female_fear
+I used to go home on the weekends and visit Agnes,female_disgust
+I used to go home on the weekends and visit Agnes,female_joy
+I used to go home on the weekends and visit Agnes,female_joy
+I used to go home on the weekends and visit Agnes,female_boredom
+I used to go home on the weekends and visit Agnes,female_neutral
+I used to go home on the weekends and visit Agnes,female_sad
+I used to go home on the weekends and visit Agnes,female_anger
+I want to take that away and then go have a drink with Karl,female_fear
+I want to take that away and then go have a drink with Karl,female_disgust
+I want to take that away and then go have a drink with Karl,female_joy
+I want to take that away and then go have a drink with Karl,female_boredom
+I want to take that away and then go have a drink with Karl,female_boredom
+I want to take that away and then go have a drink with Karl,female_anger
+It will be in the place where we always put it.,female_fear
+It will be in the place where we always put it.,female_disgust
+It will be in the place where we always put it.,female_joy
+It will be in the place where we always put it.,female_boredom
+It will be in the place where we always put it.,female_sad
+It will be in the place where we always put it.,female_sad
+It will be in the place where we always put it.,female_anger
+It will be in the place where we always put it.,female_anger
